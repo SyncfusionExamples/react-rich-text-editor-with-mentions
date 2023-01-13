@@ -9,3 +9,6 @@ Make sure that you have the latest versions of NodeJS and Visual Studio Code in 
 ### How to run this application?
 
 To run this application, you need to clone the `react-rich-text-editor-with-mentions` repository and then open it in Visual Studio Code. Now, simply install all the necessary react packages into your current project using the `npm install` command and run your project using the `npm start` command.
+
+## Blog reference
+[How to Integrate Syncfusion React Mention Component with Rich Text Editor](https://www.syncfusion.com/blogs/post/integrate-react-mention-component-with-rich-text-editor.aspx)
