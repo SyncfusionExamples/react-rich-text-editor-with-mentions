@@ -12,3 +12,5 @@ To run this application, you need to clone the `react-rich-text-editor-with-ment
 
 ## Blog reference
 [How to Integrate Syncfusion React Mention Component with Rich Text Editor](https://www.syncfusion.com/blogs/post/integrate-react-mention-component-with-rich-text-editor.aspx)
+
+>Looking for the full React Rich Text Editor component overview, features, pricing, and documentation? Visit the [React Rich Text Editor](https://www.syncfusion.com/react-components/react-rich-text-editor) page.
